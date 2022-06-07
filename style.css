@@ -78,11 +78,12 @@ fieldset .format .grup {
     box-shadow: 2px 2px 2px rgb(0, 0, 0, 0.2);
 }
 
-.format input:focus,
+/* .format input:focus,
 .format select:focus,
 .campo textarea:focus {
     background-color: #9dd1f15b;
-}
+    border: none;
+} */
 
 .checkbox {
     display: inline-block;
